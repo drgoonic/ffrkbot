@@ -5801,21 +5801,23 @@
     {
         "realm": "XI",
         "character": "Lilisette",
-        "name": "Dancing Leader",
+        "name": "Master Dancer",
         "effect": "50% chance to restore 1 use for all Dancer abilities at the beginning of the battle",
         "unlockCriteria": "Use Lilisette's Memory Crystal",
         "name(jp)": "踊り子のリーダー格",
         "id": "111110080",
+        "gl": "✓",
         "✓": "✓"
     },
     {
         "realm": "XI",
         "character": "Lilisette",
-        "name": "Top Idol",
+        "name": "Idolized Beauty",
         "effect": "Restores 1 use for all Dancer abilities at the beginning of the battle",
         "unlockCriteria": "Use Lilisette's Memory Crystal II, chance to obtain with Lilisette in party",
         "name(jp)": "トップアイドル",
         "id": "111110081",
+        "gl": "✓",
         "✓": "✓"
     },
     {
@@ -5826,6 +5828,7 @@
         "unlockCriteria": "Bring Lilisette to level 99",
         "name(jp)": "月影の胡蝶",
         "id": "111110082",
+        "gl": "✓",
         "✓": "✓"
     },
     {
@@ -7475,26 +7478,29 @@
         "unlockCriteria": "Use Orran's Memory Crystal",
         "name(jp)": "占星術士",
         "id": "111500280",
+        "gl": "✓",
         "✓": "✓"
     },
     {
         "realm": "FFT",
         "character": "Orran",
-        "name": "Recorder of History",
+        "name": "Chronicler of History",
         "effect": "MND +20% when equipping a book",
         "unlockCriteria": "Use Orran's Memory Crystal II, chance to obtain with Orran in party",
         "name(jp)": "歴史の記録者",
         "id": "111500281",
+        "gl": "✓",
         "✓": "✓"
     },
     {
         "realm": "FFT",
         "character": "Orran",
-        "name": "Keeper of Truth",
+        "name": "Beholder of Truth",
         "effect": "MND +25% when equipping a book",
         "unlockCriteria": "Bring Orran to level 99",
         "name(jp)": "真実を知る異端者",
         "id": "111500282",
+        "gl": "✓",
         "✓": "✓"
     },
     {
@@ -7835,6 +7841,7 @@
         "unlockCriteria": "Use Jack's Memory Crystal",
         "name(jp)": "ポジティブ思考",
         "id": "111600110",
+        "gl": "✓",
         "✓": "✓"
     },
     {
@@ -7845,16 +7852,18 @@
         "unlockCriteria": "Use Jack's Memory Crystal II, chance to obtain with Jack in party",
         "name(jp)": "前向きな未来",
         "id": "111600111",
+        "gl": "✓",
         "✓": "✓"
     },
     {
         "realm": "Type-0",
         "character": "Jack",
-        "name": "Ignorant Power",
+        "name": "Power Untold",
         "effect": "Samurai abilities deal 40% more damage",
         "unlockCriteria": "Bring Jack to level 99",
         "name(jp)": "無知なる力を司る者",
         "id": "111600112",
+        "gl": "✓",
         "✓": "✓"
     },
     {
@@ -7980,6 +7989,52 @@
         "id": "111700022",
         "gl": "✓",
         "✓": "✓"
+    },
+    {
+        "realm": "KH",
+        "character": "Roxas",
+        "name": "Self Oblivion",
+        "effect": "Increases Holy damage dealt by ?%",
+        "unlockCriteria": "Use Roxas's Memory Crystal",
+        "id": "111700040"
+    },
+    {
+        "realm": "KH",
+        "character": "Roxas",
+        "name": "Light's Shadow",
+        "effect": "Increases Holy damage dealt by ?%",
+        "unlockCriteria": "Use Riku's Memory Crystal II, chance to obtain with Roxas in party",
+        "id": "111700041"
+    },
+    {
+        "realm": "KH",
+        "character": "Roxas",
+        "effect": "Increases Holy damage dealt by ?%",
+        "unlockCriteria": "Bring Roxas to level 99",
+        "id": "111700042"
+    },
+    {
+        "realm": "KH",
+        "character": "Axel",
+        "name": "Elusive Motives",
+        "effect": "Increases Fire damage dealt by ?%",
+        "unlockCriteria": "Use Axel's Memory Crystal",
+        "id": "111700050"
+    },
+    {
+        "realm": "KH",
+        "character": "Axel",
+        "name": "Nobody's Friend",
+        "effect": "Increases Fire damage dealt by ?%",
+        "unlockCriteria": "Use Riku's Memory Crystal II, chance to obtain with Axel in party",
+        "id": "111700051"
+    },
+    {
+        "realm": "KH",
+        "character": "Axel",
+        "effect": "Increases Fire damage dealt by ?%",
+        "unlockCriteria": "Bring Axel to level 99",
+        "id": "111700052"
     },
     {
         "realm": "Beyond",
